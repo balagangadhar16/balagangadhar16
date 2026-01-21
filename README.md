@@ -1,58 +1,107 @@
 # 👋 Hi, I'm Bala Gangadhar Lakshmi Sai Kurra
 
-💻 **Full Stack Developer | Java | React | SQL | Web Technologies**
-
-Welcome to my GitHub profile!  
-I’m a passionate developer who enjoys turning ideas into functional and impactful web projects.  
-I love learning, building, and experimenting with modern technologies.
+🚀 **Full Stack Developer | Java & Web Technologies**  
+🎯 Career Goal: Crack a Full Stack Developer role in a reputed company
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in **Electrical and Electronics Engineering**  
-- 💡 Currently pursuing **Java Full Stack Development** at **KodNest Academy, Bengaluru**  
-- ⚙️ Skilled in **Java, HTML, CSS, JavaScript, React, and SQL**  
-- 🔥 Exploring **AI tools**, **no-code app development**, and **prompt engineering**  
-- 🎯 Goal: Become a successful Full Stack Developer and achieve ₹2L/month by age 23  
-- 🌍 Based in India 🇮🇳  
+## 🧑‍💻 About Me
+
+I am a motivated **Full Stack Developer (Fresher)** with a strong foundation in **Java, Web Development, and Database Management**.  
+I enjoy building real-world applications, learning modern technologies, and continuously improving my problem-solving skills.
+
+- 🎓 B.Tech in Electrical & Electronics Engineering  
+- 💻 Strong interest in Backend & Full Stack Development  
+- 🔍 Actively looking for **entry-level / fresher developer roles**  
+- 📈 Focused on writing clean, scalable, and maintainable code  
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** HTML | CSS | JavaScript | React  
-**Backend:** Java | Spring Boot | Node.js (beginner)  
-**Database:** MySQL | Firebase  
-**Tools:** Git | GitHub | VS Code | IntelliJ IDEA | Postman  
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- JavaScript  
+
+### 🌐 Web Technologies
+- HTML5  
+- CSS3  
+- React.js 
+
+### 🧩 Backend & Frameworks
+- Java (Core Java, OOPs, Collections)  
+- JDBC  
+- Basics of Spring & REST APIs  
+
+### 🗄️ Databases
+- MySQL  
+- SQL  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Eclipse / IntelliJ  
+- Postman  
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| 🌐 **Portfolio Website** | Personal portfolio with dark/light mode and responsive design. | HTML, CSS, JavaScript |
-| ✅ **TaskBuddy App** | Task management app with dashboard and progress tracking. | React, Firebase |
-| 🤖 **AI Quiz App** | AI-powered quiz generator and evaluator. | React, OpenAI API |
+## 📂 Projects
 
-➡️ Explore my repositories here: [@balagangadhar16](https://github.com/balagangadhar16)
+### 🔹 TaskBuddy
+A task management web application to help users organize and track daily tasks efficiently.
 
----
+**Features:**
+- User-friendly UI  
+- Task creation, update, and deletion  
+- Organized task workflow  
 
-## 📊 GitHub Stats
-![Bala Gangadhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balagangadhar16&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balagangadhar16&layout=compact&theme=tokyonight)
+**Tech Stack:**  
+`HTML | CSS | JavaScript | Java`
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/bala-gangadhar-lakshmi-sai-kurra-ba912b27b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bala%20Gangadhar-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:balagangadhar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-balaagangadhar.dev%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
-</p>
+### 🔹 Employee Management System
+A CRUD-based application to manage employee records.
+
+**Features:**
+- Add, update, view, and delete employees  
+- Database connectivity  
+- Structured backend logic  
+
+**Tech Stack:**  
+`Java | JDBC | MySQL`
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+## 📚 Currently Learning
+
+- Advanced Java  
+- Spring Boot  
+- RESTful APIs  
+- Data Structures & Algorithms  
+- System Design (Basics)  
+
+---
+
+## 🏆 Strengths
+
+- Strong problem-solving mindset  
+- Quick learner & adaptable  
+- Good communication skills  
+- Team player with a growth mindset  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: *bobbykurra123@gmail.com*  
+- 💼 LinkedIn: *www.linkedin.com/in/bala-gangadhar-lakshmi-sai-kurra-ba912b27b*   
+
+---
+
+## 🤝 Open to Opportunities
+
+I am actively seeking **Full Stack Developer / Java Developer (Fresher)** roles.  
+Open to internships, full-time roles, and learning opportunities.
+
+⭐ If you like my work, feel free to **star** my repositories!
